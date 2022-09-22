@@ -1,4 +1,4 @@
-module github.com/believems/impala-thrift
+module github.com/believems/thrift-impala
 
 go 1.19
 
